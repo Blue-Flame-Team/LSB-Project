@@ -1,0 +1,62 @@
+id,user_id,product_id,amount,transaction_date,status,payment_method
+1,1,2,1199.00,2019-03-12,completed,Credit Card
+2,1,6,39.99,2019-07-22,completed,PayPal
+3,1,16,199.99,2020-01-05,completed,Credit Card
+4,1,19,2495.00,2021-04-18,completed,Bank Transfer
+5,2,3,349.99,2018-11-20,completed,Credit Card
+6,2,11,119.99,2019-06-14,completed,PayPal
+7,2,8,54.99,2021-01-15,completed,PayPal
+8,3,5,1899.00,2019-02-28,completed,Credit Card
+9,3,8,54.99,2019-09-15,completed,PayPal
+10,3,17,749.99,2020-05-20,completed,Credit Card
+11,4,1,1299.99,2019-01-10,completed,Credit Card
+12,4,14,34.99,2020-03-08,completed,Cash on Delivery
+13,4,12,139.99,2021-05-30,completed,Credit Card
+14,5,20,499.99,2019-04-25,completed,Credit Card
+15,5,6,39.99,2021-01-30,completed,PayPal
+16,6,12,139.99,2019-05-17,completed,Credit Card
+17,6,16,199.99,2020-11-09,completed,PayPal
+18,7,2,1199.00,2019-03-22,completed,Bank Transfer
+19,7,15,89.99,2021-08-04,completed,PayPal
+20,8,4,99.99,2019-02-08,completed,Credit Card
+21,8,18,89.99,2020-04-14,completed,Cash on Delivery
+22,9,1,1299.99,2019-07-30,completed,Credit Card
+23,9,13,69.99,2022-11-21,completed,Cash on Delivery
+24,10,5,1899.00,2019-08-15,completed,Credit Card
+25,10,9,29.99,2020-02-27,completed,PayPal
+26,11,3,349.99,2020-04-05,completed,Credit Card
+27,11,6,39.99,2020-09-17,completed,PayPal
+28,12,4,99.99,2020-01-28,completed,Credit Card
+29,12,10,34.99,2021-06-14,completed,PayPal
+30,13,20,499.99,2020-05-12,completed,Bank Transfer
+31,14,11,119.99,2020-07-03,completed,PayPal
+32,15,1,1299.99,2020-08-30,completed,Credit Card
+33,16,14,34.99,2021-03-19,completed,Cash on Delivery
+34,17,5,1899.00,2021-06-25,completed,Bank Transfer
+35,18,12,139.99,2021-10-07,completed,Credit Card
+36,19,17,749.99,2022-03-14,completed,Bank Transfer
+37,20,2,1199.00,2022-11-18,completed,Credit Card
+38,21,3,349.99,2022-02-20,completed,Credit Card
+39,22,4,99.99,2022-04-09,completed,Credit Card
+40,23,1,1299.99,2022-07-30,completed,Credit Card
+41,24,10,34.99,2022-05-15,completed,Cash on Delivery
+42,25,17,749.99,2022-09-08,completed,Bank Transfer
+43,26,9,29.99,2023-03-05,completed,PayPal
+44,27,14,34.99,2023-06-21,completed,Cash on Delivery
+45,28,7,44.99,2023-08-14,completed,PayPal
+46,29,10,34.99,2023-12-03,completed,PayPal
+47,30,13,69.99,2024-01-20,completed,Credit Card
+48,1,19,2495.00,2022-05-10,refunded,Credit Card
+49,10,17,749.99,2022-10-15,refunded,Bank Transfer
+50,25,5,1899.00,2023-02-20,failed,Credit Card
+51,3,11,119.99,2021-03-22,completed,Credit Card
+52,4,16,199.99,2022-02-14,completed,Credit Card
+53,5,7,44.99,2022-04-09,completed,PayPal
+54,6,18,89.99,2022-07-17,completed,Cash on Delivery
+55,7,20,499.99,2022-09-04,completed,Credit Card
+56,8,15,89.99,2023-01-08,completed,PayPal
+57,9,11,119.99,2023-03-16,completed,Credit Card
+58,10,13,69.99,2023-05-29,completed,Cash on Delivery
+59,11,17,749.99,2024-01-13,completed,Bank Transfer
+60,12,12,139.99,2024-02-28,completed,Credit Card
+61,13,11,119.99,2024-04-10,completed,Credit Card

@@ -1,0 +1,21 @@
+id,name,category,price,stock_qty,brand
+1,Samsung Galaxy S24 Ultra,Electronics,1299.99,50,Samsung
+2,Apple iPhone 15 Pro,Electronics,1199.00,40,Apple
+3,Sony WH-1000XM5 Headphones,Electronics,349.99,120,Sony
+4,Logitech MX Master 3 Mouse,Electronics,99.99,200,Logitech
+5,Dell XPS 15 Laptop,Electronics,1899.00,25,Dell
+6,Clean Code by Robert Martin,Books,39.99,500,Prentice Hall
+7,The Pragmatic Programmer,Books,44.99,400,Addison-Wesley
+8,Designing Data-Intensive Apps,Books,54.99,350,O'Reilly
+9,Python Crash Course,Books,29.99,600,No Starch Press
+10,Database Design for Mere Mortals,Books,34.99,450,Addison-Wesley
+11,Nike Air Max 270,Clothing,119.99,300,Nike
+12,Adidas Ultraboost 23,Clothing,139.99,250,Adidas
+13,Levi's 511 Slim Jeans,Clothing,69.99,400,Levi's
+14,Under Armour Training T-Shirt,Clothing,34.99,500,Under Armour
+15,Polo Ralph Lauren Hoodie,Clothing,89.99,200,Ralph Lauren
+16,Nespresso Vertuo Machine,Home & Kitchen,199.99,150,Nespresso
+17,Dyson V15 Detect Vacuum,Home & Kitchen,749.99,60,Dyson
+18,Instant Pot Duo 7-in-1,Home & Kitchen,89.99,180,Instant Pot
+19,Peloton Bike+,Sports,2495.00,15,Peloton
+20,Garmin Forerunner 955,Sports,499.99,55,Garmin
